@@ -35,25 +35,25 @@
                     @csrf
                 <div>
                     <label style="display: inline-block ; width: 200px" >product title</label>
-                    <input type="text" name="title" placeholder="give a product name" required>
+                    <input type="text" name="title" required>
                 </div>
 
                 
                 <div style="padding: 10px">
                     <label  style="display: inline-block ; width: 200px"  >product price</label>
-                    <input type="number" name="price" placeholder="give a product price" required>
+                    <input type="number" name="price" required>
                 </div>
 
                 <div style="padding: 10px">
                     <label  style="display: inline-block ; width: 200px" >product description</label>
-                    <input type="text" name="description" placeholder="give a product description" required>
+                    <input type="text" name="description"  required>
                 </div>
 
 
                 
                 <div style="padding: 10px">
                     <label  style="display: inline-block ; width: 200px"  >product quantity</label>
-                    <input type="text" name="quantity" placeholder="give a product quantity" required>
+                    <input type="text" name="quantity"  required>
                 </div>
 
                 <div style="padding: 10px">

@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="section-heading">
-            <h2>Latest Products</h2>
+            <h2>All Products</h2>
 
          
 
